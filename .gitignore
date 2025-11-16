@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+./outputs/
+./data/
+./code/02_1_CS_MARINEFF_plots
+./code/03_0_photogrammetry_monitoring_preparation
